@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Dreams vs. Reality",
+    "color": "from-blue-500 to-cyan-500",
+    "description": "The film explores the tension between artistic dreams and practical reality, showing how success often requires sacrifice.",
+    "symbol": "The observatory scene represents the magic of dreams, while the coffee shop symbolizes daily reality.",
+    "analysis": "Mia and Sebastian must choose between their love for each other and their individual dreams, a conflict that resonates with anyone who has faced similar choices."
+  },
+  {
+    "title": "Jazz as Tradition",
+    "color": "from-purple-500 to-pink-500",
+    "description": "Sebastian's dedication to pure jazz represents the struggle to preserve artistic authenticity in a commercial world.",
+    "symbol": "The jazz club \"The Lighthouse\" symbolizes artistic purity and Sebastian's ultimate dream.",
+    "analysis": "Jazz in the film serves as both a musical genre and a metaphor for improvisation, collaboration, and the beauty of imperfection."
+  },
+  {
+    "title": "Seasons of Love",
+    "color": "from-yellow-500 to-orange-500",
+    "description": "The changing seasons mirror the evolution of Mia and Sebastian's relationship, from summer passion to winter reality.",
+    "symbol": "Each season brings different visual palettes and emotional tones, representing relationship phases.",
+    "analysis": "The seasonal progression shows how love, like art, has its own rhythms and cycles of growth and change."
+  },
+  {
+    "title": "Myth vs. Truth",
+    "color": "from-rose-500 to-pink-500",
+    "description": "The film both celebrates and critiques the Hollywood dream machine, showing both its magic and its cruelty.",
+    "symbol": "The movie theater auditions represent the gateway to dreams, while the empty seats represent rejection.",
+    "analysis": "La La Land exposes the paradox of Hollywood: it's a place that builds dreams while simultaneously crushing them."
+  }
+]

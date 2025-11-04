@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "City of Stars",
+    "scene": "Griffith Observatory Dance",
+    "description": "Mia and Sebastian dance among the stars in this magical sequence",
+    "color": "from-purple-500 to-pink-500",
+    "image": "/images/gallery1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Another Day of Sun",
+    "scene": "Highway Opening Number",
+    "description": "The spectacular opening musical number on a Los Angeles highway",
+    "color": "from-yellow-500 to-orange-500",
+    "image": "/images/gallery2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "A Lovely Night",
+    "scene": "Hollywood Hills",
+    "description": "The romantic duet where Mia and Sebastian discover their connection",
+    "color": "from-blue-500 to-cyan-500",
+    "image": "/images/gallery3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Audition",
+    "scene": "Final Performance",
+    "description": "Mia's powerful audition that captures the essence of dreaming",
+    "color": "from-rose-500 to-pink-500",
+    "image": "/images/gallery4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Epilogue",
+    "scene": "Dream Sequence",
+    "description": "The breathtaking alternate reality showing what could have been",
+    "color": "from-indigo-500 to-purple-500",
+    "image": "/images/gallery5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "The Lighthouse",
+    "scene": "Jazz Club",
+    "description": "Sebastian's dream jazz club where authentic music lives",
+    "color": "from-green-500 to-teal-500",
+    "image": "/images/gallery6.jpg"
+  }
+]

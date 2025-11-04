@@ -1,0 +1,37 @@
+[
+  {
+    "title": "City of Stars",
+    "artist": "Ryan Gosling & Emma Stone",
+    "duration": "4:39",
+    "description": "This Oscar-winning song captures the longing and hope that defines Mia and Sebastian's relationship.",
+    "mood": "Romantic, Melancholic"
+  },
+  {
+    "title": "Another Day of Sun",
+    "artist": "La La Land Cast",
+    "duration": "3:47",
+    "description": "The opening musical number was filmed in a highway traffic jam and required over 100 dancers.",
+    "mood": "Upbeat, Hopeful"
+  },
+  {
+    "title": "Mia & Sebastian's Theme",
+    "artist": "Justin Hurwitz",
+    "duration": "4:12",
+    "description": "This recurring melody represents the couple's love story and appears throughout the film.",
+    "mood": "Romantic, Nostalgic"
+  },
+  {
+    "title": "Someone in the Crowd",
+    "artist": "Emma Stone",
+    "duration": "4:18",
+    "description": "This song represents Mia's hope that someone important will notice her talent.",
+    "mood": "Hopeful, Dreamy"
+  },
+  {
+    "title": "Epilogue",
+    "artist": "Justin Hurwitz",
+    "duration": "7:51",
+    "description": "The 6-minute finale shows what could have been, featuring jazz, ballet, and tap dance.",
+    "mood": "Bittersweet, Cinematic"
+  }
+]

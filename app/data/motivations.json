@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "Film",
+    "title": "Passion for Cinema",
+    "description": "Film has always been my inspiration for storytelling and visual art."
+  },
+  {
+    "icon": "Music",
+    "title": "Love for Jazz",
+    "description": "The improvisational nature of jazz mirrors the creative process of development."
+  },
+  {
+    "icon": "Code",
+    "title": "Technical Challenge",
+    "description": "Creating cinematic experiences through code pushes the boundaries of web development."
+  },
+  {
+    "icon": "Heart",
+    "title": "Emotional Connection",
+    "description": "Building projects that resonate personally creates more meaningful work."
+  }
+]

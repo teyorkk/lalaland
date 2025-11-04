@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "category": "Production",
+    "icon": "Camera",
+    "title": "Opening Scene Magic",
+    "fact": "The opening musical number \"Another Day of Sun\" was filmed in just two days on a closed highway with over 100 dancers.",
+    "behindTheScenes": "Director Damien Chazelle insisted on filming this in one continuous take style, though it was actually multiple shots cleverly edited together.",
+    "difficulty": "Easy",
+    "color": "from-blue-500 to-cyan-500"
+  },
+  {
+    "id": 2,
+    "category": "Music",
+    "icon": "Music",
+    "title": "Live Singing",
+    "fact": "Ryan Gosling and Emma Stone sang all their songs live on set, unlike most movie musicals which are pre-recorded.",
+    "behindTheScenes": "This required Gosling to learn piano for 3 months and Stone to take multiple singing lessons to prepare for their roles.",
+    "difficulty": "Medium",
+    "color": "from-purple-500 to-pink-500"
+  },
+  {
+    "id": 3,
+    "category": "Awards",
+    "icon": "Award",
+    "title": "Oscar Record",
+    "fact": "La La Land was mistakenly announced as Best Picture winner instead of Moonlight in one of Oscar's most memorable moments.",
+    "behindTheScenes": "The envelope mix-up lasted nearly two minutes before being corrected, creating television history and viral memes.",
+    "difficulty": "Easy",
+    "color": "from-yellow-500 to-orange-500"
+  },
+  {
+    "id": 4,
+    "category": "Filming",
+    "icon": "Film",
+    "title": "Griffith Observatory",
+    "fact": "The magical dance sequence at the observatory was filmed on a green screen with the actors suspended by wires.",
+    "behindTheScenes": "The planetarium scene took 3 days to film and required extensive choreography to create the weightless, dreamlike effect.",
+    "difficulty": "Medium",
+    "color": "from-rose-500 to-pink-500"
+  },
+  {
+    "id": 5,
+    "category": "Casting",
+    "icon": "Star",
+    "title": "Almost Different Stars",
+    "fact": "Emma Watson and Miles Teller were originally cast but dropped out due to scheduling conflicts and creative differences.",
+    "behindTheScenes": "Ryan Gosling was Chazelle's first choice for Sebastian, but Emma Stone wasn't considered until after Watson left the project.",
+    "difficulty": "Hard",
+    "color": "from-green-500 to-teal-500"
+  },
+  {
+    "id": 6,
+    "category": "Music",
+    "icon": "Music",
+    "title": "Jazz Club Reality",
+    "fact": "The jazz club \"The Lighthouse\" was inspired by real LA jazz clubs like The Baked Potato and Catalina Bar & Grill.",
+    "behindTheScenes": "John Legend, who plays Keith, is actually a classically trained pianist who started his career playing jazz clubs.",
+    "difficulty": "Medium",
+    "color": "from-indigo-500 to-purple-500"
+  }
+]

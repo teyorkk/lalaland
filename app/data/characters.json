@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Mia Dolan",
+    "actress": "Emma Stone",
+    "role": "Aspiring Actress",
+    "description": "A bright-eyed dreamer working as a barista on the Warner Bros. studio lot, attending countless auditions while hoping for her big break in Hollywood.",
+    "personality": ["Passionate", "Determined", "Romantic", "Creative"],
+    "quote": "People love what other people are passionate about.",
+    "traits": "She embodies the struggle of every artist who dares to dream big in a city that demands everything.",
+    "color": "from-pink-500 to-rose-500",
+    "image": "/images/mia-dolan.webp"
+  },
+  {
+    "name": "Sebastian Wilder",
+    "actress": "Ryan Gosling",
+    "role": "Jazz Musician",
+    "description": "A purist jazz pianist who dreams of opening his own jazz club while playing background music in restaurants to make ends meet.",
+    "personality": ["Dedicated", "Traditional", "Passionate", "Complex"],
+    "quote": "Jazz is conflict, it's compromise.",
+    "traits": "He represents the dying art of pure jazz in a world that prefers commercial success over artistic integrity.",
+    "color": "from-blue-500 to-cyan-500",
+    "image": "/images/sebastian-wilder.webp"
+  }
+]
