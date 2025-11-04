@@ -46,11 +46,13 @@ A stunning tribute to Damien Chazelle's masterpiece musical romance. This projec
 ## Installation / Setup
 
 1. **Install dependencies**:
+
    ```bash
    pnpm install
    ```
 
 2. **Run the development server**:
+
    ```bash
    pnpm dev
    ```
@@ -59,6 +61,7 @@ A stunning tribute to Damien Chazelle's masterpiece musical romance. This projec
    Navigate to [http://localhost:3000](http://localhost:3000)
 
 4. **Build for production**:
+
    ```bash
    pnpm build
    ```
@@ -111,16 +114,20 @@ public/
 ## Deployment / Live Demo
 
 ### Development
+
 - Local development: `http://localhost:3000`
 
 ### Production Deployment
+
 1. **Vercel** (Recommended):
+
    ```bash
    npm i -g vercel
    vercel
    ```
 
 2. **Netlify**:
+
    ```bash
    pnpm build
    # Deploy the `out` folder to Netlify
@@ -147,11 +154,13 @@ public/
 ### Installation Instructions:
 
 1. **Android**:
+
    - Open in Chrome/Edge
    - Click install button in Hero section
    - Or look for install icon in address bar
 
 2. **iOS**:
+
    - Open in Safari
    - Tap Share button → "Add to Home Screen"
 
@@ -185,6 +194,7 @@ Contributions are welcome! Please follow these steps:
 7. **Open a Pull Request**
 
 ### Guidelines:
+
 - Follow the existing code style
 - Use TypeScript for all new components
 - Keep components small and reusable
@@ -198,11 +208,13 @@ This project is a tribute to La La Land and is built for educational and portfol
 ## Acknowledgments / Credits
 
 ### Film Credits
+
 - **Director**: Damien Chazelle
 - **Music**: Justin Hurwitz
 - **Stars**: Ryan Gosling, Emma Stone
 
 ### Technical Credits
+
 - **Next.js** - React framework
 - **Tailwind CSS** - Utility-first CSS framework
 - **Framer Motion** - Animation library
@@ -210,17 +222,19 @@ This project is a tribute to La La Land and is built for educational and portfol
 - **Shadcn/UI** - Component library
 
 ### Inspiration
+
 - La La Land (2016) - The musical romance that inspired this project
 - Jazz music and Los Angeles culture
 
 ## Contact / Author Info
 
 **Moises Theo**
-- **GitHub**: [@moises-theo](https://github.com/moises-theo)
+
+- **GitHub**: [@moises-theo](https://github.com/teyorkk)
 - **LinkedIn**: [moises-theo](https://www.linkedin.com/in/moises-atienza-a58a422aa)
 - **Email**: moisestheotatienza@gmail.com
-- **Portfolio**: [moises-theo.dev](https://moises-theo.dev)
+- **Portfolio**: [moises-theo.dev](https://moises-atienza.dev)
 
 ---
 
-*"Here's to the fools who dream."* — La La Land
+_"Here's to the fools who dream."_ — La La Land
