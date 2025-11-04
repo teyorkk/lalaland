@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { Inter, Playfair_Display } from "next/font/google";
-import PWAInstallPrompt from "./components/PWAInstallPrompt";
 import "./globals.css";
 
 const inter = Inter({
@@ -51,7 +50,6 @@ export default function RootLayout({
         className={`${inter.variable} ${playfair.variable} font-sans antialiased bg-gradient-to-br from-slate-900 via-blue-900 to-slate-900 text-white`}
       >
         {children}
-        <PWAInstallPrompt />
         <script
           dangerouslySetInnerHTML={{
             __html: `
